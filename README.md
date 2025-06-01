@@ -12,12 +12,10 @@
   </p>
   <br>
 
-## 🌐 Socials: 
-<div align="center" style="margin-top:10px;"
-    <a href="https://linkedin.com/in/junaid-qureshi110" target="_blank" style="margin:10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
-    </a>
-</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-qureshi110)
+
 <br>
 <br>
 

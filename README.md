@@ -68,9 +68,11 @@
 
 
 ---
-<p align="center">
-  <img src="https://github.com/rahul-jerthi/rahul-jerthi/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
 
-[![](https://visitcount.itsvg.in/api?id=rahul-jerthi&icon=0&color=0)](https://visitcount.itsvg.in)
+<source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake-dark.svg" />
+<source media=" (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake.svg" />
+<img alt="github-snake" src="https : l/raw. githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake.svg" />
+</picture>
+
+
 

@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+JUNAID+QURESHI;AI+%2F+ML+Explorer;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
-  <p align="center">
-    I'm <b>JUNAID QURESHI</b><br>
-    Passionate developer & creative problem solver.<br>
-    Currently exploring AI/ML<br>
-    I love turning complex ideas into clean, functional code.<br>
-    Always learning. Always building.
-  </p>
+<div align="center"> 
+    I'm <b>JUNAID QURESHI</b>
+    <div> Passionate developer & creative problem solver.</div>  
+    <div>Currently exploring AI/ML</div>
+    <div>I love turning complex ideas into clean, functional code.</div>
+    <div>Always learning. Always building.</div>
+</div>
   <br>
 
 ## 🌐 Socials:
